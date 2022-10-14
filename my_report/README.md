@@ -1,7 +1,7 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: Marina Pogka
+### University Registration Number: dpsd18094
 ### GitHub Personal Profile: xxx
 ### Digital & Serious Games Personal Repository: xxx
 
