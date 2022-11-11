@@ -19,7 +19,7 @@ assets από το διαδίκτυο.
 
 Το πρώτο παραδοτέο αφορά το World Building. Ξεκίνησα ακολουθώντας το "Get started with Ruby's Adventure" εισάγωντας την πρωταγωνίστρια μας (sprite), την οποία σχεδίασα στο procreate σε μέγεθος 3000*3000px για να μην χαλάσει η ποιότητα στο Unity.
 
-![Witchy_Girl](https://user-images.githubusercontent.com/115794300/201357471-73f0736c-7e35-4c3e-96f5-2e03a1db2b62.png)
+![Witchy_Girl (1)](https://user-images.githubusercontent.com/115794300/201360166-4d040d25-6355-41dc-9f75-fc9f910e5db2.png)
 
 Μετά έβαλα την αρχική κίνηση του χαρακτήρα (keyboard input) χωρίς animation. Έπειτα, ακολουθώντας το παρακάτω βίντεο (αναφορές) πρόσθεσα τα tilemaps, τα οποία βρήκα έτοιμα από το διαδίκτυο και δημιούργησα την πρώτη πίστα του παιχνιδιού. Τέλος, πήρα έτοιμα assets και διακόσμησα την πίστα ακολουθώντας το tutorial "Decorating the World" μετατρέποντας τα sprites σε prefabs. Όλα τα tilemaps και τα assets βρίσκονται στις αναφορές.
 
