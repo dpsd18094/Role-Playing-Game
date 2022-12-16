@@ -107,7 +107,19 @@ Earthworm
 ## Αναφορές
 
 https://www.youtube.com/watch?v=DTp5zi8_u1U (video tutorial for tilesets)
+
 https://byaqua.itch.io/shabby-cottage (nature and decorating assets)
+
 https://opengameart.org/content/whispers-of-avalon-grassland-tileset (cliffs, water and ground)
+
 https://ansimuz.itch.io/tiny-rpg-town (house)
 
+https://whatneyesore.itch.io/red-potion-animated-sprites (health potion)
+
+https://jose-moyano.itch.io/evil-tree-pixel-art (enemy)
+
+https://foozlecc.itch.io/trap-pack (earthworm trap)
+
+https://stealthix.itch.io/animated-fires (fire projectile)
+
+https://brullov.itch.io/fire-animation (fire)
