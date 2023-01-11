@@ -38,7 +38,7 @@ assets από το διαδίκτυο.
 ![Screenshot 2022-12-16 130014](https://user-images.githubusercontent.com/115794300/208084967-488ca416-edf8-4d82-a9d5-75cc8f5a1ba8.png)![Screenshot 2022-12-16 130047 (1)](https://user-images.githubusercontent.com/115794300/208086126-bf8478dc-98a5-4916-bc89-97d1c76cf165.png)![Screenshot 2022-12-16 130201](https://user-images.githubusercontent.com/115794300/208085876-49318df5-e00a-4279-8b2f-3428bb744b23.png)
 
 #### Συλλεκτικά Αντικείμενα 
-Μέσω του tutorial η πρωταγωνίστρια έχει πλέον max health 5. Το αντικείμενο που θα κάνει healing έιναι ένα `health potion` για να ταιριάζει με την θεματική του κόσμου, που θα μπορεί να συλλέγει ο παίκτης από τον χάρτη. Σε επόμενο στάδιο θα προστεθούν και άλλα collectibles (πιθανότατα κάποιο έξτρα boost στην δεύτερη πίστα).
+Μέσω του tutorial η πρωταγωνίστρια έχει πλέον max health 5. Το αντικείμενο που θα κάνει healing έιναι ένα `health potion` για να ταιριάζει με την θεματική του κόσμου, που θα μπορεί να συλλέγει ο παίκτης από τον χάρτη. 
 
 ![Health Potion 1 (1)](https://user-images.githubusercontent.com/115794300/208090557-4f22a543-7403-4c75-9d8a-dc2690a76c1e.png)
 
