@@ -129,7 +129,7 @@ Earthworm
 
 ![Health_1_60](https://user-images.githubusercontent.com/115794300/211862173-e23a9777-6dd8-4994-943e-86034bc49b8a.png)
 
-Επιπλέον, εάν ο χρήστης χάσει όλο το health η πρωταγωνίστρια κάνει respawn στην αρχή του παιχνιδιού.
+Επιπλέον, εάν ο χρήστης χάσει όλο το health η πρωταγωνίστρια κάνει respawn στην αρχή της πίστας.
 
 #### Dialog Raycast 
 
